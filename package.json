@@ -1,0 +1,20 @@
+{
+  "name": "node-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "observer": "npx ts-node observer.ts",
+    "map": "npx ts-node map.ts",
+    "merge": "npx ts-node merge.ts",
+    "interval": "npx ts-node interval.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.6.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
